@@ -1,6 +1,6 @@
 # Períodos da universidade
 
-## **Neste repositório ** você encontra *materiais de estudo* de todas as disciplinas cursadas, até o momento, por @FrancielyRebeca em seu curso de Ciência da Computação 🤯
+## *Neste repositório* você encontra *materiais de estudo* de todas as disciplinas cursadas, até o momento, por @FrancielyRebeca em seu curso de Ciência da Computação 🤯
 
 
 ### Para melhor navegação, atente-se as *orientações* abaixo:
